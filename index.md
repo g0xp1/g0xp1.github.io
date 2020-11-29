@@ -1,4 +1,4 @@
-## CTF Hack the box 
+CTF Hack the box 
 
 
 
