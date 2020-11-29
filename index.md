@@ -1,5 +1,1 @@
-CTF Hack the box 
-
-
-
-Doctor
+CTF Hack the box
